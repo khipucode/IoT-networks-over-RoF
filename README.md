@@ -3,11 +3,11 @@ IEEE 802.15.4 supports ZigBee for mesh networking but faces challenges in extend
 
 ## Physical network structure
 The physical architecture includes remote wireless nodes connected through RoF links to a centralized sink or coordinator node. The fiber link bridges the distance between isolated areas and the main network hub.
-![image](https://github.com/user-attachments/assets/33f6407c-09b2-4aa3-b898-1c23db7a79aa)
+![image](https://github.com/user-attachments/assets/2ad06c94-da97-4fd8-adb9-cd71166045ec)
 
 ## Logical network diagram
 This logic diagram illustrates the data flow and communication roles within the mesh network. RoF extends the wireless reach while maintaining the ZigBee protocol’s logical structure for routing and coordination.
-![image](https://github.com/user-attachments/assets/2ad06c94-da97-4fd8-adb9-cd71166045ec)
+![image](https://github.com/user-attachments/assets/33f6407c-09b2-4aa3-b898-1c23db7a79aa)
 
 
 ## Project Structure
