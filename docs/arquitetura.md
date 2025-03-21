@@ -1,3 +1,4 @@
+------------------------------------------------------------
 /IoT-RoF-Networks
 │── 📄 README.md                 # General project documentation
 │── 📄 architecture.md            # System architecture description
