@@ -1,4 +1,7 @@
-//Este código estabelece uma ponte de comunicação serial entre a Raspberry Pi e um módulo XBee usando um Arduino. Ele utiliza a biblioteca SoftwareSerial para se comunicar com o XBee pelos pinos 2 (RX) e 3 (TX). Dados recebidos da Raspberry Pi via USB são enviados ao XBee. Dados recebidos do XBee são enviados de volta à Raspberry Pi. Funciona como um repetidor serial bidirecional.
+//Este código estabelece uma ponte de comunicação serial entre a Raspberry Pi e um módulo XBee usando um Arduino. 
+//Ele utiliza a biblioteca SoftwareSerial para se comunicar com o XBee pelos pinos 2 (RX) e 3 (TX). 
+//Dados recebidos da Raspberry Pi via USB são enviados ao XBee. Dados recebidos do XBee são enviados de volta à Raspberry Pi. 
+//Funciona como um repetidor serial bidirecional.
 
 #include <SoftwareSerial.h>
 
