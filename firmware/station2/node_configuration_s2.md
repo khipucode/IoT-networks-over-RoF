@@ -1,5 +1,4 @@
-```
-# STATION 1
+## STATION 1
 
 ### 🔹 NODE 1
 - **Channel (CH):**           C  
