@@ -17,6 +17,5 @@ sudo rm /usr/lib/python3.12/EXTERNALLY-MANAGED
 
 ## Installing the digi-xbee Package
 
-```bash
 pip install digi-xbee
 
