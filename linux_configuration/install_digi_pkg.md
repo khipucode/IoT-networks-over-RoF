@@ -7,3 +7,7 @@ To bypass this limitation and allow global package installation using pip, the c
 sudo rm /usr/lib/python3.12/EXTERNALLY-MANAGED
 
 This action disables the restriction and restores the previous behavior of pip.
+
+Install Digi Pakage
+
+pip install digi-xbee
