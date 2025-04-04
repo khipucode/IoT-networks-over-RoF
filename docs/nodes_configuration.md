@@ -4,7 +4,7 @@
 - **CH Channel:**           C  
 - **ID PAN ID :**           1234
 - **DH Dest. Address High:** 0
-- **DL Dest. Address Low:** 2 
+- **DL Dest. Address Low:** 0 
 - **MY Source Address:**   0
 - **SH Serial Number High:**   13A200
 - **SL Serial Number Low:**   40F4FA00
