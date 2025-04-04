@@ -23,7 +23,7 @@
 - **KY AES Encryption Key:** 
 - **NI Node Identifier:** Node 1
 
-- **PL Power level:** Low[1]
+- **PL Power level:** Medium[2]
 
 - **BD Interface Data Rate:** 
 - **AP API Enable:** 
