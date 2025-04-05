@@ -4,7 +4,7 @@
 - **CH Channel:**           C  
 - **ID PAN ID :**           1234
 - **DH Dest. Address High:** 0
-- **DL Dest. Address Low:** 2 
+- **DL Dest. Address Low:** 0 
 - **MY Source Address:**   0
 - **SH Serial Number High:**   13A200
 - **SL Serial Number Low:**   40F4FA00
@@ -23,7 +23,7 @@
 - **KY AES Encryption Key:** 
 - **NI Node Identifier:** Node 1
 
-- **PL Power level:** Low[1]
+- **PL Power level:** Medium[2]
 
 - **BD Interface Data Rate:** 
 - **AP API Enable:** 
