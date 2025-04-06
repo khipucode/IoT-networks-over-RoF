@@ -17,9 +17,9 @@ This logic diagram illustrates the data flow and communication roles within the 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ebc6ac01-c10d-4efd-bb6c-dc65abd300ec" alt="diagrama2" width="95%">
 </p>
-IP Mini-PC1 = 192.168.5.11/24
-IP Mini-PC2 = 192.168.5.12/24
-IP Mini-PC3 = 192.168.5.13/24
+<p>IP Mini-PC1 = 192.168.5.11/24</p>
+<p>IP Mini-PC2 = 192.168.5.12/24</p>
+<p>IP Mini-PC3 = 192.168.5.13/24</p>
 
 
 ## Project Structure
