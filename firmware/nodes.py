@@ -33,7 +33,9 @@ def main():
 
     try:
         device.open()
-
+        # === IDENTIFICADOR DE NOME (NI) ===
+        ni_atual = device.get_parameter("NI")
+        print(f"NI atual: {ni_atual.decode('utf-8')}")
         # === POTÊNCIA ===
         potencia_atual = device.get_parameter("PL")
         print(f"Potência atual: {int.from_bytes(potencia_atual, 'big')}")
