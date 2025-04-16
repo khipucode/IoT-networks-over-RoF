@@ -1,3 +1,21 @@
+# Anydesk
+Station 2 : Mini-PC2 - lrclab  = 1728504538
+Station 1 : Mini-PC3 - killjoy = 1044099280
+
+# Serial ports configuration
+ *sink1* - USB3
+ *sink2* - USB1
+ node1 - f2       
+ node2 - f2          
+ node3 - f2          
+ node4 - f2          
+ *sink3* - ACM2
+ node5 - f1   
+ node6 - f1   
+ node7 - f1   
+ node8 - f1   
+
+
 # TEST 1
 
 **f1 : B**   **Pan ID 1: 1234**  **Power 1: 0**
