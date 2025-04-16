@@ -1,0 +1,41 @@
+# TEST 1
+
+**f1 : B**   **Pan ID 1: 1234**  **Power 1: 0**
+**f2 : C**   **Pan ID 2: 3020**  **Power 2: 0**
+
+| STATION 1           | STATION 2           |
+|---------------------|---------------------|
+| *sink1* - f1        | *sink3* - f2        |
+| sink2               |                     |
+| node1 - f2          | node5 - f1          |
+| node2 - f2          | node6 - f1          |
+| node3 - f2          | *node7* - f1        |
+| node4 - f2          | *node8* - f1        |
+
+# TEST 2
+
+**f1 : B**   **Pan ID 1: 1234**  **Power 1: 0**
+**f2 : C**   **Pan ID 2: 3020**  **Power 2: 0**
+
+| STATION 1           | STATION 2           |
+|---------------------|---------------------|
+| *sink1* - f1        | *sink3* - off        |
+| *sink2* - f2        |                     |
+| node1 - f2          | node5 - f1          |
+| node2 - f2          | node6 - f1          |
+| node3 - f2          | *node7* - f1        |
+| node4 - f2          | *node8* - f1        |
+
+# TEST 3
+
+**f1 : B**   **Pan ID 1: 1234**  **Power 1: 0**
+**f2 : C**   **Pan ID 2: 3020**  **Power 2: 0**
+
+| STATION 1           | STATION 2           |
+|---------------------|---------------------|
+| *sink1* - f1        | *sink3* - off        |
+| *sink2* - f2        |                     |
+| node1 - f1          | node5 - f1          |
+| node2 - f1          | node6 - f1          |
+| node3 - f2          | *node7* - f2        |
+| node4 - f2          | *node8* - f2        |
