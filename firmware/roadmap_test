@@ -2,6 +2,14 @@
 Station 2 : Mini-PC2 - lrclab  = 1728504538
 Station 1 : Mini-PC3 - killjoy = 1044099280
 
+| a. 5 ms  | b. 10 ms | c. 15 ms  | d. 20 ms  | e. 25 ms  |
+|---------|----------|-----------|-----------|-----------|
+| f. 30 ms | g. 35 ms | h. 40 ms | i. 45 ms  | j. 50 ms  |
+| k. 60 ms | l. 70 ms | m. 80 ms | n. 90 ms  | o. 100 ms |
+| p. 120 ms | q. 140 ms | r. 160 ms | s. 180 ms | t. 200 ms |
+| u. 400 ms | v. 600 ms | w. 800 ms | x. 1000 ms |           |
+
+
 # Serial ports configuration
  *sink1* - USB3
  *sink2* - USB1
