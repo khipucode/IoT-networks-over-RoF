@@ -8,7 +8,10 @@ BAUD_RATE = 57600
 NOVO_NI = b'N1'             # Nome identificador (até 20 caracteres)
 NOVA_POTENCIA = b'\x04'     # 0x00 (mínimo) a 0x04 (máximo padrão)
 NOVO_CANAL = 0x0C           # Canal entre 0x0B (11) e 0x1A (26)
-NOVO_PAN_ID = b'\x12\x34'   # PAN ID de 2 bytes
+
+numero_pan_id = 2033
+NOVO_PAN_ID = numero_pan_id.to_bytes(2, byteorder='big')
+#NOVO_PAN_ID = b'\x12\x34'   # PAN ID de 2 bytes
 
 def main():
     device = XBeeDevice(PORT, BAUD_RATE)
