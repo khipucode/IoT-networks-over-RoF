@@ -32,6 +32,7 @@ def main():
         print(f"Canal (CH): {ch} - Frequência aprox: {freq} MHz")
         print(f"PAN ID: 0x{id_hex}")
 
+        """  Este codigo é para mudar de parâmetros
         # === APLICAR NOVOS PARÂMETROS ===
         print("\nAplicando novos parâmetros...")
         device.set_parameter("NI", NOVO_NI)
@@ -53,6 +54,7 @@ def main():
         print(f"Potência (PL): {pl}")
         print(f"Canal (CH): {ch} - Frequência aprox: {freq} MHz")
         print(f"PAN ID: 0x{id_hex}")
+        """
 
     finally:
         if device is not None and device.is_open:
