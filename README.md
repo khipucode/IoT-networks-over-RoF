@@ -24,6 +24,10 @@ This logic diagram illustrates the data flow and communication roles within the 
 IP Mini-PC2 = 192.168.5.12/24 - user: lrclab<br>
 IP Mini-PC3 = 192.168.5.13/24 - user: killjoy</p>
 
+Raspberrys:
+# killjoy +
+  leaonid@raspi IP: 192.168.5.14/24
+  node3 and node4
 
 ## Project Structure
 ```
