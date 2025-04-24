@@ -26,8 +26,9 @@ IP Mini-PC3 = 192.168.5.13/24 - user: killjoy</p>
 
 Raspberrys:
 # killjoy +
-  leaonid@raspi IP: 192.168.5.14/24
-  node3 and node4
+  <p> leaonid@raspi IP: 192.168.5.14/24 node3
+  <p> pione@raspi IP: 192.168.5.15/24 node4
+  <p> pitwo@raspi IP: 192.168.5.16/24 node xx
 
 ## Project Structure
 ```
