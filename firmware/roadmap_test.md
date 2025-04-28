@@ -9,6 +9,8 @@ Station 1 : Mini-PC3 - killjoy = 1044099280
 | p. 120 ms | q. 140 ms | r. 160 ms | s. 180 ms  | t. 200 ms |
 | u. 400 ms | v. 600 ms | w. 800 ms | x. 1000 ms |           |
 
+![image](https://github.com/user-attachments/assets/98a7186e-526e-43bb-8def-50e60f238a2c)
+
 #--------------------------------------------
 # Calculo de lambda
 Envio de pacotes de 5 ms (0.005 s) em média
